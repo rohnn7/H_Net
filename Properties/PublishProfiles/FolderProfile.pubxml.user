@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Hnet</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>08/11/2018 10:03:48</publishTime>
+    </File>
+    <File Include="bin/de/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/Emgu.CV.UI.dll">
+      <publishTime>09/18/2019 14:23:34</publishTime>
+    </File>
+    <File Include="bin/Emgu.CV.World.dll">
+      <publishTime>09/18/2019 14:23:26</publishTime>
+    </File>
+    <File Include="bin/es/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/fr/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/Google.Protobuf.dll">
+      <publishTime>08/10/2018 18:51:54</publishTime>
+    </File>
+    <File Include="bin/hu/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/H_Net.dll">
+      <publishTime>01/28/2020 07:29:45</publishTime>
+    </File>
+    <File Include="bin/H_Net.pdb">
+      <publishTime>01/28/2020 07:29:45</publishTime>
+    </File>
+    <File Include="bin/IronPython.dll">
+      <publishTime>10/09/2018 19:51:34</publishTime>
+    </File>
+    <File Include="bin/IronPython.Modules.dll">
+      <publishTime>10/09/2018 19:51:34</publishTime>
+    </File>
+    <File Include="bin/IronPython.SQLite.dll">
+      <publishTime>10/09/2018 19:51:34</publishTime>
+    </File>
+    <File Include="bin/IronPython.Wpf.dll">
+      <publishTime>10/09/2018 19:51:34</publishTime>
+    </File>
+    <File Include="bin/it/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/ja/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/Keras.dll">
+      <publishTime>12/28/2019 08:40:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Dynamic.dll">
+      <publishTime>08/30/2018 12:44:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Scripting.dll">
+      <publishTime>08/30/2018 12:44:28</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Scripting.Metadata.dll">
+      <publishTime>08/30/2018 12:44:28</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>01/01/1980 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/09/2019 00:56:44</publishTime>
+    </File>
+    <File Include="bin/Numpy.Bare.dll">
+      <publishTime>10/11/2019 13:20:16</publishTime>
+    </File>
+    <File Include="bin/pt/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/Python.Runtime.dll">
+      <publishTime>07/04/2019 14:01:56</publishTime>
+    </File>
+    <File Include="bin/RazorEngine.dll">
+      <publishTime>06/16/2017 17:11:22</publishTime>
+    </File>
+    <File Include="bin/Renci.SshNet.dll">
+      <publishTime>10/16/2017 20:53:06</publishTime>
+    </File>
+    <File Include="bin/ru/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/sk/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/sv/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/01/2013 20:54:24</publishTime>
+    </File>
+    <File Include="bin/tr/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/x64/concrt140.dll">
+      <publishTime>09/18/2019 14:23:10</publishTime>
+    </File>
+    <File Include="bin/x64/cvextern.dll">
+      <publishTime>09/18/2019 14:23:08</publishTime>
+    </File>
+    <File Include="bin/x64/msvcp140.dll">
+      <publishTime>09/18/2019 14:23:10</publishTime>
+    </File>
+    <File Include="bin/x64/opencv_videoio_ffmpeg411_64.dll">
+      <publishTime>09/18/2019 14:23:10</publishTime>
+    </File>
+    <File Include="bin/x64/vcruntime140.dll">
+      <publishTime>09/18/2019 14:23:10</publishTime>
+    </File>
+    <File Include="bin/x86/concrt140.dll">
+      <publishTime>08/06/2019 18:50:34</publishTime>
+    </File>
+    <File Include="bin/x86/cvextern.dll">
+      <publishTime>09/18/2019 09:34:26</publishTime>
+    </File>
+    <File Include="bin/x86/msvcp140.dll">
+      <publishTime>08/06/2019 18:50:34</publishTime>
+    </File>
+    <File Include="bin/x86/opencv_videoio_ffmpeg411.dll">
+      <publishTime>09/18/2019 09:03:18</publishTime>
+    </File>
+    <File Include="bin/x86/vcruntime140.dll">
+      <publishTime>08/06/2019 18:50:34</publishTime>
+    </File>
+    <File Include="bin/ZedGraph.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/zh-cn/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="bin/zh-tw/ZedGraph.resources.dll">
+      <publishTime>09/19/2015 15:28:04</publishTime>
+    </File>
+    <File Include="Host/IServiceContract.svc">
+      <publishTime>01/27/2020 16:04:28</publishTime>
+    </File>
+    <File Include="libman.json">
+      <publishTime>01/05/2020 13:14:07</publishTime>
+    </File>
+    <File Include="License-LGPL.txt">
+      <publishTime>01/04/2020 09:33:41</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>01/27/2020 16:26:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/28/2020 07:30:41</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
